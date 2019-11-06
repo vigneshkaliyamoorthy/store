@@ -1,3 +1,5 @@
+Hosted through Netlify, you can view at https://react-vignesh-store.netlify.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
