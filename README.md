@@ -1,4 +1,4 @@
-Hosted through Netlify, you can view at https://react-vignesh-store.netlify.com/
+Hosted through Netlify, you can view at https://react-vignesh-store.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
